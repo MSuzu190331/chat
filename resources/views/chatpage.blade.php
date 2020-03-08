@@ -9,7 +9,7 @@
 <body>
 <h1>sample</h1>
 <div id="app">
-    <example-component></example-component>
+    <main-component></main-component>
 </div>
 
 <script src="{{ asset('/js/app.js') }}"></script>
